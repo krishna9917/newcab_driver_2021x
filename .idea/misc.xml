@@ -1,0 +1,65 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable-ar-hdpi/ic__online.xml" value="0.308" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable/ic__online.xml" value="0.308" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout-ar/fragment_invoice_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_help.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_invite_friend.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_wallet.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_your_trip.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/fragment_invoice_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/fragment_invoice_show_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/fragment_past_trip.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/list_item_past_trip.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/list_item_wallet.xml" value="0.36666666666666664" />
+        <entry key="..\:/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/widget_chathead.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_crash.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_email.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_forgot.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_help.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_password.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_register.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_reset.xml" value="0.30462962962962964" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_welcome.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/new_welcomeactivity.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/menu/activity_main_drawer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable/button_round_accent.xml" value="0.3225" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable/button_round_white.xml" value="0.3225" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable/ic_bottom_arrow.xml" value="0.2995" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable/ic_double_arrow.xml" value="0.2875" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable/ic_subsribed.xml" value="0.2875" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable/shape_selected_supcrition_box.xml" value="0.3225" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/drawable/shape_supcrition_box.xml" value="0.3225" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout-ar/activity_payment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_forgot.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_instant_ride.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_invite.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_invite_friend.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_notification_manager.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_payment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_subscription.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_wallet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/activity_your_trip.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/fragment_invoice_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/fragment_status_flow.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/layout_referral_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/layout_subscriptions.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/layout/list_notifications.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/softechure/1AndroidStudioProjects/newcab_driver_2021x/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

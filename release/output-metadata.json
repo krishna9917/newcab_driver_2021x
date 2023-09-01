@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.softechurecabdriver.provider",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 17,
+      "versionName": "17",
+      "outputFile": "com.softechurecabdriver.provider_V17_VN-17_2022-12-28.apk"
+    }
+  ],
+  "elementType": "File"
+}
